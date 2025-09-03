@@ -5,7 +5,7 @@
     --laranja-claro: #000000;
     --alto-contraste-fundo: #ffd702;
     --alto-contraste-texto: #000000;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: ##f8f6ec;
 }
 
 body {
@@ -198,6 +198,7 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
 
 
 
