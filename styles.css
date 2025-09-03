@@ -3,8 +3,8 @@
 
 :root {
     --laranja-claro: #000000;
-    --alto-contraste-fundo: #ffffff;
-    --alto-contraste-texto: #000000;
+    --alto-contraste-fundo: #00005;
+    --alto-contraste-texto: #dedede;
     --alto-contraste-link: #ffd700;
 }
 
@@ -198,6 +198,7 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
 
 
 
